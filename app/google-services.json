@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "68599283887",
+    "project_id": "safety-for-all-e88ff",
+    "storage_bucket": "safety-for-all-e88ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68599283887:android:4d140bbd10974fd60b945a",
+        "android_client_info": {
+          "package_name": "com.example.safetyforall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68599283887-8faqkhr37usq37c17v03b8nia1sejle4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAQcmwlPVs6KrUa3dccum1qrp7n0ODBwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68599283887-8faqkhr37usq37c17v03b8nia1sejle4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

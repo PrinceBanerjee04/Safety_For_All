@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Safety For All</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="heading_one">What is SOS</string>
+    <string name="heading_two">Rapid Emergency Response</string>
+    <string name="heading_three">Location Tracking</string>
+    <string name="heading_fourth">Wide Accessibility</string>
+
+    //Description
+    <string name="desc_one">SOS is an international Morse code distress signal that is universally recognized for indicating an emergency situation.In the context of an app, SOS refers to a mobile application designed to provide quick and easy access to emergency services in case of an emergency. These apps typically allow users to send an alert to predefined contacts or emergency services with their location information.</string>
+    <string name="desc_two">SOS apps enable users to quickly request help when they are in danger or need immediate assistance. With a single tap, the app can send distress signals to designated contacts or emergency services, providing them with critical information such as the user\'s location. </string>
+    <string name="desc_three">SOS apps have built-in GPS capabilities, which allow emergency responders to accurately locate the user in need of help. This information can significantly reduce response times and increase the chances of a successful rescue.</string>
+    <string name="desc_fourth">SOS apps can be installed on smartphones, making them widely accessible to a large number of people. As smartphones are commonly carried by individuals, having an SOS app can ensure that help is just a few taps away in case of an emergency.</string>
+</resources>
